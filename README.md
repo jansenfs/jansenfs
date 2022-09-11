@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Welcome to my GitHub page. I'm an MSc student in chemical and materials engineering (process control), University of Alberta. I am currently working on process modeling for oil sands bitumen extraction and reinforcement learning-based process control and optimization.
+
 <!--
 **jansenfs/jansenfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
